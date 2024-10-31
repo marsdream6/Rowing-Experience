@@ -1,7 +1,7 @@
 # Rowing-Experience
 Rowing and Having Fun!  
 
-![Rowing in HK](./HK.png)  
+![Rowing in HK](./HK.png)   
 
 ![200k rowing record](./200k.jpg)  
 
