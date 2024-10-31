@@ -5,4 +5,6 @@ Rowing and Having Fun!
 
 ![200k rowing record](./200k.jpg)  
 
+![Awards](./Awards.jpg)  
+
 ![rowing training](./training.mp4)
